@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLMS", "OLMS\OLMS.csproj", "{15ED7BB9-054B-436D-89EA-FB8CD5F72571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Access", "Data_Access\Data_Access.csproj", "{720C0416-7A8D-43F9-808B-4721042C792E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15ED7BB9-054B-436D-89EA-FB8CD5F72571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED7BB9-054B-436D-89EA-FB8CD5F72571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED7BB9-054B-436D-89EA-FB8CD5F72571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED7BB9-054B-436D-89EA-FB8CD5F72571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720C0416-7A8D-43F9-808B-4721042C792E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720C0416-7A8D-43F9-808B-4721042C792E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720C0416-7A8D-43F9-808B-4721042C792E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720C0416-7A8D-43F9-808B-4721042C792E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDDEC72-8141-4326-8A35-420C35DE132C}
+	EndGlobalSection
+EndGlobal

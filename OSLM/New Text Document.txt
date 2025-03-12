@@ -1,0 +1,33 @@
+private void Proceed_Button_Click(object sender, EventArgs e)
+{
+    string User_Id = username1.Text;
+    string Password = Password1.Text;
+    Database db = new Database();
+    bool rs = db.User_Info.Check_login1(User_Id, Password);
+    if (rs == true)
+    {
+        this.Hide();
+        new Admin_Panel().Show();
+    }
+
+    bool rsr = db.User_Info.Check_login2(User_Id, Password);
+    if (rsr == true)
+    {
+        this.Hide();
+        new Teacher_Portal().Show();
+    }
+
+    bool rss = db.User_Info.Check_login3(User_Id, Password);
+    if (rss == true)
+    {
+        this.Hide();
+        new Student_Panel().Show();
+    }
+
+    else
+    {
+        _ = MessageBox.Show("Invalid Username or Password");
+        username1.Text = "";
+        Password1.Text = "";
+    }
+}

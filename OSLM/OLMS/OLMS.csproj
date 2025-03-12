@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15ED7BB9-054B-436D-89EA-FB8CD5F72571}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OLMS</RootNamespace>
+    <AssemblyName>OLMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>OLMS.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin Info for Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Info for Students.Designer.cs">
+      <DependentUpon>Admin Info for Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Panel.Designer.cs">
+      <DependentUpon>Admin Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Info.Designer.cs">
+      <DependentUpon>Admin Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Student Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Panel.Designer.cs">
+      <DependentUpon>Student Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Info for Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Info for Students.Designer.cs">
+      <DependentUpon>Teacher Info for Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Info.Designer.cs">
+      <DependentUpon>Teacher Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Panel.Designer.cs">
+      <DependentUpon>Teacher Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Page.Designer.cs">
+      <DependentUpon>Login Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User info Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User info Edit.Designer.cs">
+      <DependentUpon>User info Edit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin Info for Students.resx">
+      <DependentUpon>Admin Info for Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Panel.resx">
+      <DependentUpon>Admin Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Info.resx">
+      <DependentUpon>Admin Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Panel.resx">
+      <DependentUpon>Student Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Info for Students.resx">
+      <DependentUpon>Teacher Info for Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Panel.resx">
+      <DependentUpon>Teacher Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Login Page.resx">
+      <DependentUpon>Login Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Info.resx">
+      <DependentUpon>Teacher Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User info Edit.resx">
+      <DependentUpon>User info Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O L M S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Accessibility">
+      <Guid>{1EA4DBF0-3C3B-11CF-810C-00AA00389B71}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="DTSPipeline">
+      <Guid>{BBDA0FD6-2D61-4456-8D1F-C2E7F539E662}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TxAgg">
+      <Guid>{F7672CF3-3612-4D95-9BE2-AFB9908E0E22}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TxBDD">
+      <Guid>{324E9E72-C4DC-48E2-8ACC-1E36EED56DC5}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TxDataConvert">
+      <Guid>{8EAD0A23-22CB-451B-A37B-F658759CAA8E}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TxSplit">
+      <Guid>{38583A03-C52F-4887-8754-696B790CCF1B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data_Access\Data_Access.csproj">
+      <Project>{720c0416-7a8d-43f9-808b-4721042c792e}</Project>
+      <Name>Data_Access</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

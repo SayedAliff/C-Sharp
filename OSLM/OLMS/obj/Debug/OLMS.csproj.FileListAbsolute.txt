@@ -1,0 +1,90 @@
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\OLMS.exe.config
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\OLMS.exe
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\OLMS.pdb
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\Data_Access.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\Data_Access.pdb
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\bin\Debug\Data_Access.dll.config
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.Accessibility.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.TxAgg.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.TxBDD.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\Interop.TxSplit.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Admin_Info_for_Students.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Admin_Panel.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Admin_Info.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Student_Panel.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Info_for_Students.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Portal.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Registration.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Properties.Resources.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Login_Page.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Info.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.User_info_Edit.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.csproj.CopyComplete
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.exe
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\OLMS\obj\Debug\OLMS.pdb
+G:\C# project\OLMS\OLMS\bin\Debug\OLMS.exe.config
+G:\C# project\OLMS\OLMS\bin\Debug\OLMS.exe
+G:\C# project\OLMS\OLMS\bin\Debug\OLMS.pdb
+G:\C# project\OLMS\OLMS\bin\Debug\Data_Access.dll
+G:\C# project\OLMS\OLMS\bin\Debug\Data_Access.pdb
+G:\C# project\OLMS\OLMS\bin\Debug\Data_Access.dll.config
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.csproj.AssemblyReference.cache
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.Accessibility.dll
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.DTSPipeline.dll
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.TxAgg.dll
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.TxBDD.dll
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.TxDataConvert.dll
+G:\C# project\OLMS\OLMS\obj\Debug\Interop.TxSplit.dll
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.csproj.ResolveComReference.cache
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Admin_Info_for_Students.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Admin_Panel.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Admin_Info.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Student_Panel.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Info_for_Students.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Portal.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Registration.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Properties.Resources.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Login_Page.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.Teacher_Info.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.User_info_Edit.resources
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.csproj.GenerateResource.cache
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.csproj.CoreCompileInputs.cache
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.csproj.CopyComplete
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.exe
+G:\C# project\OLMS\OLMS\obj\Debug\OLMS.pdb
+G:\C# project\OLMS Final\OLMS\bin\Debug\OLMS.exe.config
+G:\C# project\OLMS Final\OLMS\bin\Debug\OLMS.exe
+G:\C# project\OLMS Final\OLMS\bin\Debug\OLMS.pdb
+G:\C# project\OLMS Final\OLMS\bin\Debug\Data_Access.dll
+G:\C# project\OLMS Final\OLMS\bin\Debug\Data_Access.pdb
+G:\C# project\OLMS Final\OLMS\bin\Debug\Data_Access.dll.config
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.csproj.AssemblyReference.cache
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.Accessibility.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.DTSPipeline.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.TxAgg.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.TxBDD.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.TxDataConvert.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\Interop.TxSplit.dll
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.csproj.ResolveComReference.cache
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Admin_Info_for_Students.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Admin_Panel.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Admin_Info.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Student_Panel.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Teacher_Info_for_Students.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Teacher_Portal.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Registration.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Properties.Resources.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Login_Page.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.Teacher_Info.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.User_info_Edit.resources
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.csproj.GenerateResource.cache
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.csproj.CoreCompileInputs.cache
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.csproj.CopyComplete
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.exe
+G:\C# project\OLMS Final\OLMS\obj\Debug\OLMS.pdb

@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\bin\Debug\Data_Access.dll.config
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\bin\Debug\Data_Access.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\bin\Debug\Data_Access.pdb
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.Properties.Resources.resources
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.dll
+C:\Users\User\Desktop\OLMS_full_Project\OLMS\Data_Access\obj\Debug\Data_Access.pdb
+G:\C# project\OLMS\Data_Access\bin\Debug\Data_Access.dll.config
+G:\C# project\OLMS\Data_Access\bin\Debug\Data_Access.dll
+G:\C# project\OLMS\Data_Access\bin\Debug\Data_Access.pdb
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.AssemblyReference.cache
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.Properties.Resources.resources
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.GenerateResource.cache
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.dll
+G:\C# project\OLMS\Data_Access\obj\Debug\Data_Access.pdb
